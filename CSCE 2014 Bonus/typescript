@@ -1,0 +1,33 @@
+Script started on 2022-10-10 22:23:15-0500
+]0;eaalcoce@turing: ~/bonus[01;32meaalcoce@turing[00m:[01;34m~/bonus[00m$ logoutulimit -s unlimiteda[K[3Plogout[2Pquit./lab7.exe[6Pquitlogoutulimit -as unlimitedlogout[K[Kg++[K[K[Klogoutulimit -s unlimiteda[K[3Plogout[2Pquit./lab7.exeg++ -Wall lab7.cpp -o lab7.exe[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Pvim lab7.cppg++ -Wall lab7.cpp -o lab7.exe[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K-Wall *.cpp -o mian,[K[K[K[Kain,[K.eex[K[Kxe
+]0;eaalcoce@turing: ~/bonus[01;32meaalcoce@turing[00m:[01;34m~/bonus[00m$ ./main.exe
+Welcome to the Bonus Project!!!
+<><><><><><><><><><><><><><><><><><><>
+1. read and write for big houses
+2. read and write for small houses
+3. To exit the program
+Selection: 1
+The number of properties stored in the small house vector is: 254
+
+Welcome to the Bonus Project!!!
+<><><><><><><><><><><><><><><><><><><>
+1. read and write for big houses
+2. read and write for small houses
+3. To exit the program
+Selection: 2
+The number of properties stored in the small house vector is: 43
+
+Welcome to the Bonus Project!!!
+<><><><><><><><><><><><><><><><><><><>
+1. read and write for big houses
+2. read and write for small houses
+3. To exit the program
+Selection: 3
+Thank you for using the real estate bonus Project!
+]0;eaalcoce@turing: ~/bonus[01;32meaalcoce@turing[00m:[01;34m~/bonus[00m$ ls
+houses_big.txt    main.cpp  realEstateBH.csv  realEstate.h      typescript
+houses_small.txt  [0m[01;32mmain.exe[0m  realEstate.cpp    realEstateSH.csv
+]0;eaalcoce@turing: ~/bonus[01;32meaalcoce@turing[00m:[01;34m~/bonus[00m$ exit
+exit
+
+Script done on 2022-10-10 22:24:55-0500
